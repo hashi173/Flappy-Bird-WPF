@@ -33,18 +33,10 @@ Avoid hitting pipes and the ground to achieve the highest score!
 
 ## 📦 Installation
 
-### Option 1: Run from Release
-1. Download the latest release from [Releases](https://github.com/YOUR_USERNAME/flappy-bird-wpf/releases)
+### Run from Release
+1. Download the latest release from [Releases]([https://github.com/hashi173/Flappy-Bird-WPF/releases])
 2. Extract the ZIP file
-3. Run `Flappy Bird Game.exe`
-
-### Option 2: Build from Source
-1. Clone the repository:
-```bash
-   git clone https://github.com/YOUR_USERNAME/flappy-bird-wpf.git
-```
-2. Open `Flappy Bird Game.sln` in Visual Studio
-3. Build and run (F5)
+3. Run `setup.exe`
 
 ## 📂 Project Structure
 
@@ -92,4 +84,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Original Flappy Bird game by Dong Nguyen
+
 - WPF tutorials and documentation from Microsoft
