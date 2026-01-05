@@ -1,0 +1,18 @@
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.AssemblyReference.cache
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\MainWindow.g.cs
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\App.g.cs
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game_MarkupCompile.cache
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\MainWindow.baml
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.g.resources
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.manifest
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.application
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe.manifest
+D:\Game Project\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.application
